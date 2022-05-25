@@ -17,5 +17,10 @@ git status -> mostra lo stato della working directory (cartella corrente)
 
 git log -> mostra la cronologia dei commit effettuati 
 
+---------- gitignore ----------
+
+andando su gitignore.io posso cercare un template gitignore specifico per il linguaggio e l'IDE
+che uso. serve a non avere roba inutile nel repository (configurazioni di Eclipse ecc)
+
 
 
