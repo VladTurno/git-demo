@@ -42,5 +42,7 @@ git checkout -b "nomebranch" -> fusione delle due precedenti
 
 git merge "nomebranch" -> fonde "nomebranch" al ramo su cui ci troviamo attualmente
 
+git diff nome1..nome2 -> mostra le differenze tra due branch
+
 
 
