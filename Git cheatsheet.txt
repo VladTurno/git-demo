@@ -22,5 +22,17 @@ git log -> mostra la cronologia dei commit effettuati
 andando su gitignore.io posso cercare un template gitignore specifico per il linguaggio e l'IDE
 che uso. serve a non avere roba inutile nel repository (configurazioni di Eclipse ecc)
 
+---------- cheat sheet ----------
+
+git commit --amend -> modifica dell'ultimo commit
+
+git reset {nomeFile|idCommit} -> elimina il commit specificato; --soft per non cancellare i file, 
+				 --hard per cancellare i file dal file system
+
+---------- trunk & branch ----------
+
+il trunk è il corpo principale del sistema di versionamento (branch master)
+i branch sono i rami di sviluppo alternativi paralleli al tronco principale
+
 
 
