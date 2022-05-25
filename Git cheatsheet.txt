@@ -1,0 +1,21 @@
+
+---------- Git & GitHub ----------
+
+Git -> strumenti per il controllo di versione
+GitHub -> server remoto che ospita un repository Git
+
+---------- cheat sheet ----------
+
+git init -> inizializza un repository nella cartella in cui ci si trova
+	    tutti i file nella cartella possono andare sotto versionamento
+
+git add nomefile -> aggiunge il file "nomefile" alla staging area (!= repository)
+
+git commit -m "descrizione commit" -> pubblica sul repo tutti i file nella staging area
+
+git status -> mostra lo stato della working directory (cartella corrente)
+
+git log -> mostra la cronologia dei commit effettuati 
+
+
+
